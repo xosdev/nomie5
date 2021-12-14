@@ -83,8 +83,8 @@
       class="mt-4 text-sm leading-6 text-center text-gray-700 dark:text-gray-400">
       <Icon name="warning" size={14} />
       <strong>Terms:</strong>
-      Nomie is offered "as is", without warranty. Happy Data, LLC disclaims any
-      liability for damages resulting from using Nomie. Nomie is not a medical
+      LeLo is offered "as is", without warranty. NBK.NET, LLC disclaims any
+      liability for damages resulting from using LeLo. LeLo is not a medical
       device, nor should it be used as such. MIT License
     </p>
   </div>
