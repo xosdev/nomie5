@@ -68,7 +68,7 @@
         // If nexting on the PWA Slide throw a message
         let confirmed = await Interact.confirm(
           "Are you sure?",
-          "Nomie is best installed as an iOS Web App, not ran in Safari. Apple can erase data older than 7 days."
+          "LeLo is best installed as an iOS Web App, not ran in Safari. Apple can erase data older than 7 days."
         );
         if (confirmed) {
           state.activeSlide = state.activeSlide + 1;
