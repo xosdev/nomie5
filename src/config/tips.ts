@@ -9,6 +9,6 @@ export default [
   "You can manually track by writing a note in the What's Up field. For example: Today is awesome! #mood(8) with @brandon",
   "Use @username in notes to tag people",
   "Include +context to add additional context to your log",
-  "Import data from places like IFTTT. Tap Settings, then Nomie API",
-  "Want to support Nomie? Check out our Patreon (link in settings)",
+  "Import data from places like IFTTT. Tap Settings, then LeLo API",
+  "Want to support LeLo? Check out our Patreon (link in settings)",
 ];
