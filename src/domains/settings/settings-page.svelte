@@ -99,8 +99,8 @@
     },
     share() {
       SocialShare(
-        `I track my life with Nomie! It's free, private, and you get to design what you track. @nomieapp`,
-        "https://nomie.app"
+        `I track my life with LeLo! It's free, private, and you get to design what you track. @LeLoApp`,
+        "https://LeLo.nbk.net"
       );
     },
     async unlockFeatures() {
@@ -334,7 +334,7 @@
                   <Text size="sm">
                     <a
                       class="nbtn nbtn-xs nbtn-rounded nbtn-dark"
-                      href={`mailto:${config.support_email}?subject=Nomie ${
+                      href={`mailto:${config.support_email}?subject=LeLo ${
                         import.meta.env.PACKAGE_VERSION
                       } `}
                     >
@@ -355,7 +355,7 @@
                 Version v{import.meta.env.PACKAGE_VERSION}
               </div>
               <div class="text-xs text-gray-800 dark:text-gray-500">
-                <strong>Happy Data</strong>, LLC &copy; Copyright 2014 - {dayjs().format(
+                <strong>NBK NET</strong>, LLC &copy; Copyright 2021 - {dayjs().format(
                   "YYYY"
                 )}
               </div>
