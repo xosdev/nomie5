@@ -56,7 +56,7 @@
     if (testValue == 10) {
       Interact.alert(
         'Someone likes to tap!',
-        `This is an example of a sipmle tracker, there are other types inside.`,
+        `This is an example of a sipmle LeLo tracker, there are other types inside.`,
       )
     }
   }
@@ -72,7 +72,7 @@
       alt="nomie-head-on" />
     <h1
       class="pt-2 text-2xl font-extrabold text-center md:text-4xl dark:text-white">
-      👋 I'm Nomie
+      👋 I'm LeLo
     </h1>
     <p
       class="my-4 text-xl leading-tight text-center md:text-2xl dark:text-gray-200">
