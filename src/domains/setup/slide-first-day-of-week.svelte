@@ -20,7 +20,7 @@
         $UserStore.meta.firstDayOfWeek = '1'
         UserStore.saveMeta()
       }}>
-      {`${Lang.t('settings.sunday', 'Sunday')}`}
+      {`${Lang.t('settings.saturday', 'Saturday')}`}
     </Button>
     <Button
       className="mb-3 {$UserStore.meta.firstDayOfWeek === '2' ? 'bg-primary-500 text-white font-bold' : 'bg-white dark:bg-black text-primary-600'}"
