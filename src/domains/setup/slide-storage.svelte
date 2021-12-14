@@ -21,7 +21,7 @@
 
     <p class="mb-4 text-sm leading-snug text-gray-800 dark:text-gray-200">
       <strong>⚠️ WARNING: Data is stored only on this device.</strong>
-      It is critical that you back up your data (Nomie will try and remind you).
+      It is critical that you back up your data (LeLo will try and remind you).
       If you don't, data on your phone may be lost if Apple or Google needs to
       free up space.
     </p>
