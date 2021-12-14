@@ -1,21 +1,21 @@
 export default [
   {
-    name: "Brandon Corbin",
+    name: "Abdullah AlZaid",
     description: "Product Architect",
-    url: "https://www.linkedin.com/in/brandoncorbin/?utm_source=v5.nomie.app",
+    url: "https://nbk.net",
     emoji: undefined,
   },
   {
-    name: "National Autism Association",
+    name: "Rashdan AlRoomi",
     description: "",
-    url: "https://nationalautismassociation.org/?utm_source=v5.nomie.app",
+    url: "https://nbk.net",
     emoji: undefined,
     avatar: "/sponsors/naa-avatar.svg",
   },
   {
-    name: "Adopt an Orphan Elephant",
-    description: "Sheldrick Wildlife",
-    url: "https://www.sheldrickwildlifetrust.org/?utm_source=v5.nomie.app",
+    name: "Laila AlMutawa",
+    description: " ",
+    url: "https://nbk.net",
     emoji: "🐘",
   },
   {
