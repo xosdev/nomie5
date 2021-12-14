@@ -14,7 +14,7 @@
 <section class="slide slide-location">
   <div class="pt-3 top center-grow">
     <h1 class="mb-2 text-2xl font-bold text-center dark:text-white">
-      {Lang.t('setup.use-location', `Enable Location tracking?`)}
+      {Lang.t('setup.use-location', `Enable LeLo Location tracking?`)}
     </h1>
     <p
       class="mx-auto mb-4 text-sm leading-snug text-center text-gray-700 w-80 dark:text-gray-200">
