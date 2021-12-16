@@ -17,8 +17,8 @@
   className=" mb-3"
   title={Lang.t('settings.join-the-community', 'Join the Community')}
   outside>
-  <ListItem detail title="Learn More" href="https://lelo.nbk.net">
-    <span slot="right" class="text-inverse-3">Lelo App</span>
+  <ListItem detail title="Learn More" href="https://nomie.app?s=dap">
+    <span slot="right" class="text-inverse-3">Nomie.app</span>
   </ListItem>
   <ListItem
     title="Become a Patron"

@@ -21,7 +21,7 @@ export default [
   {
     name: "Become a Sponsor",
     description: undefined,
-    url: "https://lelo.nbk.net",
+    url: "https://www.patreon.com/nomieapp?utm_source=v5.nomie.app",
     avatar: "/images/nomie-head-on.png",
   },
 ];
