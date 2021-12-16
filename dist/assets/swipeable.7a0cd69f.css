@@ -1,0 +1,1 @@
+.swipeable{position:relative;flex-grow:1;overflow-x:hidden}.swipeable .swipeable--item{z-index:120;position:relative}.swipeable>div[slot=right]{position:absolute;right:0;top:0;bottom:0;z-index:100}.swipeable>div[slot=left]{position:absolute;left:0;top:0;bottom:0;z-index:100}
